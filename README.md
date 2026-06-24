@@ -229,17 +229,6 @@ flower-recognition-cnn-resnet/
 
 ## How to Run
 
-### Option 1: Google Colab (Recommended)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hVxHGPWd14wQFdytwwaFfW5zKM1XVPBS?usp=sharing)
-
-1. Open the notebook in Google Colab
-2. Ensure GPU runtime is enabled: `Runtime > Change runtime type > T4 GPU`
-3. Upload the `flowers.zip` dataset to your Google Drive
-4. Run all cells sequentially
-
-### Option 2: Local Setup
-
 ```bash
 # Clone the repository
 git clone https://github.com/Rolw4-53872/flower-recognition-cnn-resnet.git
